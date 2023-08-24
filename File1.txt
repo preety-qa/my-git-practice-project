@@ -1,2 +1,4 @@
 My name is Preety;
 My surname is Aujla;
+
+My age is 20;
